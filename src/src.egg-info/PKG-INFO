@@ -1,3 +1,11 @@
+Metadata-Version: 2.1
+Name: src
+Version: 0.0.1
+Summary: A small package for Movie Recommender System
+Home-page: https://github.com/Kumari Priyadarshini/Movie-Recommender-System-Using-Machine-Learning
+Author: Kumari Priyadarshini
+Description-Content-Type: text/markdown
+
 # Project: Movie Recommender System Using Machine Learning!
 
 This is a hollywood movie recommender system built with Python. I used IMDB 5000 Movie Dataset to built this.
